@@ -1,0 +1,23 @@
+.portfolio__container{
+    padding-top: 90px;
+    flex-direction: column;
+    align-items: center;
+}
+.portfolio__title{
+    text-align: center;
+    padding-bottom: 80px;
+    font-size: 34px;
+}
+
+.porfolio-img{
+    max-width: 1000px;
+    border: 1px solid #000000;
+    margin-bottom: 20px;
+}
+
+.portfolio-insc{
+    text-decoration-line: underline;
+    text-align: center;
+    font-size: 18px;
+    padding-bottom: 80px;
+}

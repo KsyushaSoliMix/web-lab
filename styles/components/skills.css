@@ -1,0 +1,77 @@
+.skills__container{
+    padding-top: 90px;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 70px;
+}
+
+.skills__title{
+    margin-bottom: 40px;
+    text-align: center;
+    font-size: 34px;
+}
+
+.skills__text{
+    margin-bottom: 40px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.col_list{
+    justify-content: space-between;
+}
+
+.skills__item{
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.photoshop_img{
+    width: 90px;
+    padding-bottom: 20px;
+}
+
+.skills__item p{
+    color: gray;
+    font-size: 14px;
+}
+
+.illustrator_img{
+    width: 90px;
+    padding-bottom: 20px;
+}
+
+.after_effects_img{
+    width: 90px;
+    padding-bottom: 20px;
+}
+
+.figma_img{
+    height: 90px;
+    padding-bottom: 20px;
+}
+
+.skills_next_stars{
+    padding-bottom: 20px;
+}
+
+
+/* Внизу звезды */
+.skill-rating {
+	width: 170px;
+	margin: 0 auto;
+    justify-content: center;
+}
+.skill-rating span {
+	font-size: 26px;
+	margin: 0 3px;
+	line-height: 1;
+	color: lightgrey;
+}
+.skill-rating > span:before {
+	content: '★';
+}
+.skill-rating > span.active {
+	color: black;
+}

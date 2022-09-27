@@ -1,0 +1,8 @@
+@import "../assets/fonts/font.css";
+@import "./base.css";
+@import "./classes.css";
+@import "./components/header.css";
+@import "./components/about_me.css";
+@import "./components/skills.css";
+@import "./components/portfolio.css";
+@import "./components/contacts.css";

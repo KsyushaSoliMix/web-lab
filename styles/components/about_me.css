@@ -1,0 +1,20 @@
+.about_me{
+    background-color: #F6F6F6;
+    flex-flow: column;
+    padding-top: 90px;
+    align-items: center;
+    padding-bottom: 70px;
+}
+
+.about_me_title{
+    padding-bottom: 20px;
+    font-size: 34px;
+}
+
+.about_me p{
+    font-size: 18px;
+}
+
+.about_me_next{
+    padding-bottom: 40px;
+}
