@@ -18,3 +18,13 @@
 .about_me_next{
     padding-bottom: 40px;
 }
+
+@media screen and (max-width: 1050px){
+    .after_header_info_image{
+        max-width: 95%
+    }
+
+    .after_header_info_name{
+        margin-left: 2.5%;
+    }
+}

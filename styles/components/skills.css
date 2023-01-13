@@ -75,3 +75,18 @@
 .skill-rating > span.active {
 	color: black;
 }
+
+@media screen and (max-width: 700px){
+
+    .col_list{
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    .skills__item{
+        margin-top: 20px;
+        justify-content: center;
+    }
+    .col-3{
+        max-width: 50%;
+    }
+}
